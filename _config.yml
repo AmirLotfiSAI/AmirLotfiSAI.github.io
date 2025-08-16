@@ -1,40 +1,36 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Amirhossein Lotfi | Academic Portfolio"
-title_separator          : "-"
-name                     : &name "Amirhossein Lotfi"
-description              : &description "A Materials Science and Engineering graduate specializing in Materials Informatics. I leverage machine learning and deep learning to design novel materials and predict their properties."
-url                      : https://github.com/AmirLotfiSAI # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/AmirLotfiSAI?tab=repositories"
+locale                  : "en-US"
+site_theme              : "default" # Currently available options are "default", "air"
+title                   : "Amirhossein Lotfi | Academic Portfolio"
+title_separator         : "-"
+name                    : &name "Amirhossein Lotfi"
+description             : &description "A Materials Science and Engineering graduate specializing in Materials Informatics. I leverage machine learning and deep learning to design novel materials and predict their properties."
+url                     : "https://AmirLotfiSAI.github.io" # <-- CORRECTED
+baseurl                 : "" # the subpath of your site, e.g. "/blog"
+repository              : "AmirLotfiSAI/AmirLotfiSAI.github.io" # <-- CORRECTED
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Amirhossein Lotfi"
-  pronouns         : # example: "she/her"  
-  bio              : "M.Sc. Student at IUST. My research is at the intersection of Materials Science and Machine Learning."
-  location         : "Tehran, Iran"
-  employer         : "Iran University of Science and Technology"
-  uri              : https://github.com/AmirLotfiSAI
-  email            : "amirhossein_lotfi@metaleng.iust.ac.ir" 
+  avatar            : "profile.png" # You need to upload your photo as "profile.png" to the /images/ folder
+  name              : "Amirhossein Lotfi"
+  pronouns          :
+  bio               : "M.Sc. Student at IUST. My research is at the intersection of Materials Science and Machine Learning." # <-- CORRECTED
+  location          : "Tehran, Iran"
+  employer          : "Iran University of Science and Technology" # <-- CORRECTED
+  uri               :
+  email             : "amirhossein_lotfi@metaleng.iust.ac.ir"
 
   # Academic websites
-  #academia         : # URL
-  #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=US1vYt4AAAAJ"
+  googlescholar     : "https://scholar.google.com/citations?hl=en&authuser=2&user=US1vYt4AAAAJ"
+  #orcid             : # If you have an ORCID, add the full URL here
+
+  # Repositories and software development
+  github            : "AmirLotfiSAI" # <-- CORRECTED
+  
+  # Social media
+  linkedin          : "https://www.linkedin.com/in/amirhossein-lotfi-a3362a232/"
+  # twitter         : # Your username for X / Twitter
   #inspire-hep      : # URL
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
