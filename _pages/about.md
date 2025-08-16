@@ -29,5 +29,3 @@ My projects focus on the practical application of machine learning to materials 
 
 ## Next Steps
 Please feel free to browse my full [portfolio](/portfolio/), [download my CV](/files/your_cv_filename.pdf), or get in touch via email.
-
-*(Note: You will need to upload your CV to the `/files/` folder and update the link above).*
