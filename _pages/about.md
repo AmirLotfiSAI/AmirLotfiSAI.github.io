@@ -2,10 +2,9 @@
 permalink: /
 title: "Amirhossein Lotfi | Materials Informatics"
 author_profile: true
----
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a recent graduate of the Master's program in Materials Science and Engineering from Iran University of Science and Technology (IUST). My academic work has been centered at the exciting intersection of traditional materials science and cutting-edge artificial intelligence.
