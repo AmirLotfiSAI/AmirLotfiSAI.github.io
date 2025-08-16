@@ -13,9 +13,9 @@ title                    : "Amirhossein Lotfi | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Amirhossein Lotfi"
 description              : &description "A Materials Science and Engineering graduate specializing in Materials Informatics. I leverage machine learning and deep learning to design novel materials and predict their properties."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://github.com/AmirLotfiSAI # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/AmirLotfiSAI?tab=repositories"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +26,9 @@ author:
   name             : "Amirhossein Lotfi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Tehran, Iran"
+  employer         : "Iran University of Science and Technology"
+  uri              : https://github.com/AmirLotfiSAI
   email            : "amirhossein_lotfi@metaleng.iust.ac.ir" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github           : "academicpages"
+  github           : "AmirLotfiSAI"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   #goodreads        : # Username
   #google_plus      : # Username
   #keybase          : # Username
-  instagram        : # Username
+  #instagram        : # Username
   #lastfm           : # Username
   linkedin         : https://www.linkedin.com/in/amirhossein-lotfi-a3362a232/
   #mastodon         : # URL
