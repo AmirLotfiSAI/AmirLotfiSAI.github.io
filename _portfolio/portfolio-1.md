@@ -1,6 +1,6 @@
 ---
 title: "Project: Predicting Magnesium Alloy Corrosion with Machine Learning"
-excerpt: "A comprehensive project where I developed an end-to-end machine learning workflow to predict the corrosion rate of magnesium alloys, achieving a predictive accuracy (R²) of 0.892. <br/><img src='/images/500x300.png'>"
+excerpt: "A comprehensive project where I developed an end-to-end machine learning workflow to predict the corrosion rate of magnesium alloys, achieving a predictive accuracy (R²) of 0.892. <br/><img src='/images/1000x700.png'>"
 collection: portfolio
 ---
 
