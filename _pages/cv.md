@@ -74,7 +74,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Publications
+Portfolio
 ======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single.html %}
