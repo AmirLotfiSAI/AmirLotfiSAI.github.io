@@ -61,7 +61,7 @@ Honors and Awards
     * Ranked among the top 1% in Iran’s national entrance exam for M.Sc. in Materials Engineering.
 
 * **Top 1% – National University Entrance Exam (Bachelor's Level)** 
-    * Issued by Sanjesh Organization, Sep 2018 
+    * Issued by Sanjesh Organization, Sep 2019 
     * Achieved top 1% ranking in Iran's national exam for B.Sc. programs.
 
 Certifications
