@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV as PDF](/files/Amirhossein_Lotfi_CV.pdf)
+{: .btn .btn--inverse}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Sc. in Materials Science and Engineering**, 2025 (Expected)
+ * Iran University of Science and Technology, Tehran, Iran
+ * Specialization: Materials Characterization and Selection
+* **B.Sc. in Materials Science and Engineering**, 2023
+ * Isfahan University of Technology, Isfahan, Iran
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2023 - Present: Graduate Research Student**
+  * Iran University of Science and Technology
+  * Supervisor: [Supervisor's Name]
+  * Duties included:
+    * Developing machine learning models for materials property prediction.
+    * Aggregating and preprocessing data from scientific literature.
+    * Scientific writing and preparation of manuscripts.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python (Proficient)
+* **Machine Learning:** Scikit-learn, Pandas, NumPy, TensorFlow/PyTorch (Beginner)
+* **Data & Visualization:** OriginLab, Matplotlib
+* **Languages:** Persian (Native), English (Professional)
 
 Publications
 ======
@@ -58,7 +54,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
