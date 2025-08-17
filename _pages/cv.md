@@ -29,13 +29,13 @@ Education
 Research Experience
 ======
 * **Graduate Researcher** - *Project: AI-Based Corrosion Prediction in Magnesium Alloys* 
-    * *Mar 2024 - Present*
+    * *Sep 2023 - Present*
     * Associated with Iran University of Science and Technology 
     * Applied machine learning models to analyze the relationship between processing conditions, microstructure, mechanical properties, and corrosion behavior in magnesium alloys.
     * Focused on predictive modeling using Python and data analytics tools.
       
 * **Undergraduate Researcher** - *Project: Surface Modification of Electrodes via PVD for Water Splitting*
-    * *Mar 2023 - Aug 2023* 
+    * *Sep 2019 - Sep 2023* 
     * Associated with Isfahan University of Technology 
     * Studied the physical vapor deposition (PVD) process for improving the surface properties of electrodes used in electrochemical water splitting.
       
