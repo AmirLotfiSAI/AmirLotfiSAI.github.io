@@ -25,7 +25,5 @@ My projects focus on the practical application of machine learning to materials 
 * **[Predicting Tensile Strength with Neural Networks](/portfolio/name-of-your-project-file-1/)**: A project where I developed a deep learning model to predict the mechanical properties of alloys based on their composition.
 * **[Generative Models for Novel Microstructures](/portfolio/name-of-your-project-file-2/)**: An exploration into using GANs to design new, theoretical material microstructures.
 
-*(Note: You will need to create the project files in the `_portfolio` folder and update the links above).*
-
 ## Next Steps
 Please feel free to browse my full [portfolio](/portfolio/), [download my CV](/files/your_cv_filename.pdf), or get in touch via email.
